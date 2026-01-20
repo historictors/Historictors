@@ -133,20 +133,20 @@ console.log('Status: 🟢 Online & Coding!');
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=historictors&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true&border_radius=15&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api?username=historictors&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=historictors&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F8D866&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=historictors&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F8D866" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=historictors&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true&title_color=f85d7f&custom_title=Contribution%20Activity%20Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=historictors&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="98%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=historictors&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=historictors&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
